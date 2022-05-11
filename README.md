@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 
 ## Api calls
 
-### https://jsonplaceholder.typicode.com/guide/
+### https://jsonplaceholder.typicode.com/
 
 Available rest endpoints:
 #### /posts/{id}/comments
